@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: HelloRubyTuesdays | Amanda Canyon]]></title>
+  <link href="http://acanyon.github.com/amandacanyon/blog/categories/hellorubytuesdays/atom.xml" rel="self"/>
+  <link href="http://acanyon.github.com/amandacanyon/"/>
+  <updated>2013-01-13T19:16:43-08:00</updated>
+  <id>http://acanyon.github.com/amandacanyon/</id>
+  <author>
+    <name><![CDATA[with Amanda Canyon]]></name>
+    <email><![CDATA[acanyon@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Learning Rails with ConnectFour]]></title>
+    <link href="http://acanyon.github.com/amandacanyon/blog/WomenWhoCode/HelloRubyTuesdays/learning-rails-with-connectfour/"/>
+    <updated>2013-01-13T16:56:00-08:00</updated>
+    <id>http://acanyon.github.com/amandacanyon/blog/WomenWhoCode/HelloRubyTuesdays/learning-rails-with-connectfour</id>
+    <content type="html"><![CDATA[<p>Our first Women Who Code project will be learning rails with ConnectFour.</p>
+]]></content>
+  </entry>
+  
+</feed>
