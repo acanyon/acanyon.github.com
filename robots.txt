@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://acanyon.github.com/amandacanyon/sitemap.xml 
+Sitemap: http://www.acanyon.com/sitemap.xml 
